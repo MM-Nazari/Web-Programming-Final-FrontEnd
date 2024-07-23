@@ -1,0 +1,31 @@
+.chat{
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.clicked{
+    background-color: lightsteelblue;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.profile{
+    order: 1;
+    width: 25px;
+    height: 25px;
+}
+
+.name{
+    order: 2;
+}

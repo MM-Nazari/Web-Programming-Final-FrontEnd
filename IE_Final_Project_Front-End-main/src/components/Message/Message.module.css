@@ -1,0 +1,45 @@
+.messageAsSender{
+    display: flex;
+    flex-direction: column;
+    background-color: lightsalmon;
+    border: none;
+    border-radius: 15px;
+    margin: 15px;
+    margin-left: 500px;
+}
+
+.messageAsReceiver{
+    display: flex;
+    flex-direction: column;
+    background-color: pink;
+    border: none;
+    border-radius: 15px;
+    margin: 15px;
+    margin-right: 500px;
+}
+
+.name{
+    display: flex;
+    height: 20px;
+    align-items: flex-start;
+    margin: 5px;
+    margin-left: 15px;
+}
+
+.content{
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    align-items: flex-start;
+    margin-left: 15px;
+}
+
+.time{
+    display: flex;
+    height: 20px;
+    flex-direction: row;
+    align-items:self-end;
+    justify-content: flex-end;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}

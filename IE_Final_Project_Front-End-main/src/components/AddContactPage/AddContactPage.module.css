@@ -1,0 +1,41 @@
+.mainContainer{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-dark background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.innerContainer{
+  display: flex;
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  flex-direction: column;
+}
+
+.topBar{
+  flex-basis: 15%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.searchBox{
+  order: 1;
+  height: 15px;
+}
+
+.searchButton{
+  order: 2;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.closeButton{
+  cursor: pointer;
+}

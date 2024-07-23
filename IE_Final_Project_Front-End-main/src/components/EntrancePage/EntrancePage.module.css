@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+  margin-right: 25px;
+}
+
+.back{
+  background-image: url("../../Assets/entrance.jpg");
+  height: 96vh;
+  background-position: center;
+}

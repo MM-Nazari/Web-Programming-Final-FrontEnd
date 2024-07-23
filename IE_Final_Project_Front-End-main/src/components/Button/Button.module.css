@@ -1,0 +1,85 @@
+.entrancePageButton{
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rebeccapurple;
+    color: #fff;
+    border : none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.loginButton {
+    padding: 10px 20px;
+    background-color: mediumpurple;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signupButton{
+    padding: 10px 20px;
+    background-color: mediumpurple;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.addPhotoButton{
+    background-image: url('../../Assets/add_photo.png');
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.saveButton{
+    padding: 10px 20px;
+    background-color: mediumpurple;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logoutButton{
+    padding: 10px 20px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.deleteAccButton{
+    padding: 10px 20px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.closeButton{
+    background-color: mediumpurple;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 180px;
+    margin-bottom: 20px;
+}
+
+.backButton{
+    background-color: mediumpurple;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
