@@ -1,11 +1,11 @@
-# Shopping Basket
+# Web-Based Messanger
 
 ## Table of Contents
 - [Project Description](#project-description)
 - [Contributors](#contributors)
 
 ## Project Description
-For a detailed project description, please refer to the [Project Description PDF](./exam.pdf).
+For a detailed project description, please refer to the [Project Description PDF](./IE%20Fall2023%20Frontend.pdf).
 
 
 ## Contributors
