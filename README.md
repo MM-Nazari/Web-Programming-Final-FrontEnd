@@ -7,6 +7,8 @@
 ## Project Description
 For a detailed project description, please refer to the [Project Description PDF](./IE%20Fall2023%20Frontend.pdf).
 
+## Built With
+- [React](https://react.dev/)
 
 ## Contributors
 - [Ali Noroozbeigy](https://github.com/Ali-Noroozbeigy)
